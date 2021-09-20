@@ -1,0 +1,21 @@
+@media(max-width: 650px) { 
+    /*-------------contact---------------*/
+
+    #contact .page-title {
+        font-size: 3rem;
+    }
+
+    /*#firm-title{
+        font-size: 2rem;
+    }*/
+
+    #confirm {
+        width: 100%;
+    }
+
+    #submit-a {
+        background-color: #022561;
+        color: #fff;
+        margin: 30px 0 10px 290px;
+    }
+}
